@@ -6,6 +6,7 @@ class person{
 protected:
     string name;
 public:
+    
     void setname(string iname)
     {
         name=iname;
