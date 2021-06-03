@@ -1,3 +1,3 @@
 # Object-oriented-programming-codes
 
-Encapsulation
+Encapsulation,Inheritence
