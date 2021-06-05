@@ -6,6 +6,7 @@ class person{
     
 public:
     void introduce(){
+        
     cout<<"Hi there i am a human being a philanthropist person"<<endl;
     cout<<"This is a base class person"<<endl;
     cout<<endl;
