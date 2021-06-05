@@ -21,6 +21,7 @@ public:
     cout<<"Hi there i am a competitive programmer"<<endl;
     cout<<"This is AMARTYA from derived class"<<endl;
     cout<<endl;
+        
     }
 };
 
