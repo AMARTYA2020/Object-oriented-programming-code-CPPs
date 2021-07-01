@@ -14,7 +14,6 @@ public:
     {
         age=iage;
     }
-
 };
 
 class student : public Person{
